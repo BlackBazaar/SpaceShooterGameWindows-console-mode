@@ -1,0 +1,1 @@
+You can use CodeBlocks/console project and run these codes.
